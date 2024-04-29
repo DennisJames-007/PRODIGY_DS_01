@@ -1,6 +1,5 @@
 # PRODIGY_DS_01
 Prodigy Task 1
-# Gender Distribution Visualization
 
 This repository contains a simple Python script that visualizes the distribution of genders within a given dataset using a bar chart.
 
